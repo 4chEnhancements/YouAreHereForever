@@ -23,3 +23,12 @@ To PR to the repo itself:
 ## /Apps
 
 ## /Misc.
+
+### /Captcha Solvers
+- [4chan Captcha Solver](https://github.com/the-brickster/4Chan_Captcha_Solver)- Click `Get Captcha` and wait for it to solve it, sometimes gets it wrong.
+- [JKCS](https://git.coom%2etech/araragi/JKCS) - Fork of above with improved performance
+
+### /Filters
+
+- `/(?:>>\d(?:(?!>>\d)[^])*){20}/` - Filter posts from users who mass reply change `20` to desired cutoff point
+- `stub:no;/Anarchist|Anarcho-Capitalist|Black Lives Matter|Catalonia|Commie|Confederate|DEUS VULT|Democrat|European|Fascist|Gadsden|Hippie|Jihadi|Kekistani|LGBT|Muslim|NATO|NAZI|National Bolshevik|Pirate|Republican|Task Force Z|Tree Hugger|United Nations|White Supremacist/i` - Hide meme flags on /pol/, suggested to turn off recursive filtering
