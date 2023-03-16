@@ -13,6 +13,8 @@ To PR to the repo itself:
 ## /Userscripts
 - [4chanX](https://github.com/ccd0/4chan-x/)
   - Many enhancements to browsing 4chan - see the repo for more details
+- [Toshino](https://github.com/toshinoo/toshino)
+  - Newer userscript, fewer enhancements, WIP - see the repo for more details
 
 ## /Userstyles
 
