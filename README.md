@@ -16,6 +16,7 @@ To PR to the repo itself:
 - [4chan Image Resizer](https://greasyfork.org/en/scripts/391758-4chan-image-resizer) - Automatically downscale images based on custom presets, image cropping and more. **Requires 4chan X**.
 - [4chan 404 Archive Links](https://greasyfork.org/en/scripts/445332-4chan-404-archive-links) - Redirects dead 4chan threads to archives without 4chan X
 - [4chan Anonymize File Names](https://greasyfork.org/en/scripts/435220-4chan-anonymize-file-names) - Anonymizes file names when posting files on 4chan
+- [4chan Thread Image Viewer](https://greasyfork.org/en/scripts/1275-4chan-image-viewer) - Opens current thread Images in 4chan into a popup viewer
 
 ## /Userstyles
 
