@@ -23,6 +23,7 @@ Userscripts focused on providing a single feature or enhancement
 - [4chan 404 Archive Links](https://greasyfork.org/en/scripts/445332-4chan-404-archive-links) - Redirects dead 4chan threads to archives without 4chan X
 - [4chan Anonymize File Names](https://greasyfork.org/en/scripts/435220-4chan-anonymize-file-names) - Anonymizes file names when posting files on 4chan
 - [4chan Thread Image Viewer](https://greasyfork.org/en/scripts/1275-4chan-image-viewer) - Opens current thread Images in 4chan into a popup viewer
+- [4chan Archive Image Downloader](https://greasyfork.org/en/scripts/440266-4chan-archive-image-downloader) - Downloads all images individually in a thread with original filenames
 
 ## /Userstyles
 
