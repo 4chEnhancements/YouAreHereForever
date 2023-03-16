@@ -11,10 +11,9 @@ To PR to the repo itself:
 - Include a ReadMe with the same information as adding it to the list. PR's for adding a userstyle without including a screenshot of what the styles will look like will be rejected.
 
 ## /Userscripts
-- [4chanX](https://github.com/ccd0/4chan-x/)
-  - Many enhancements to browsing 4chan - see the repo for more details
-- [Toshino](https://github.com/toshinoo/toshino)
-  - Newer userscript, fewer enhancements, WIP - see the repo for more details
+- [4chan X](https://github.com/ccd0/4chan-x/) - Many enhancements to browsing 4chan - see the repo for more details
+- [Toshino](https://github.com/toshinoo/toshino) - Newer userscript, fewer enhancements, WIP - see the repo for more details
+- [4chan Image Resizer](https://greasyfork.org/en/scripts/391758-4chan-image-resizer) - Automatically downscale images based on custom presets, image cropping and more. **Requires 4chan X**.
 
 ## /Userstyles
 
